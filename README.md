@@ -24,4 +24,4 @@ The `process` module contains three main functions:
 
 ## main
 
-`main.py` is the entry point into the program. It sets the path files and imperatively calls the appropriate functions from `process`
+main.py is the entry point into the program. It sets the path files and imperatively calls the appropriate functions from process
