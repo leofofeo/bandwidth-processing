@@ -1,0 +1,4 @@
+Server,InterfaceName,NetBitRate
+server1,eth0,10
+server1,eth1,20
+server2,eth0,10
